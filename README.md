@@ -1,2 +1,1 @@
-# README.md
 Zhuravlev Egor
